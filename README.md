@@ -90,7 +90,7 @@ This certification emphasizes real-world problem-solving, with hands-on projects
 ## **Let’s Connect!**
 
 I am always excited to discuss data-related projects and opportunities! Feel free to explore my work and reach out:
-- **LinkedIn:** [https://www.linkedin.com/in/sawaira-akhtar/](#)
+- **LinkedIn:** [linkedin.com/in/sawaira-akhtar/](#)
 
 Thank you for visiting, and I hope you find these projects insightful!
 
